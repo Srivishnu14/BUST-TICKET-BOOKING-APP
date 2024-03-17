@@ -19,4 +19,4 @@ This Android application enables users to easily book bus tickets from anywhere 
 ## Setup and Installation
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/yourusername/bus-ticket-reservation-app.git
+   git clone https://github.com/Srivishnu14/BUST-TICKET-BOOKING-APP.git
